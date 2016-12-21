@@ -2,7 +2,7 @@
 
 This is the [impressionist](https://github.com/charlotte-ruby/impressionist) repository you are looking for.
 
-I just forked this to make it play nice with Rails 5.0.1 warning and won't be maintaining this repo.
+I just forked it here to make it play nice with Rails 5.0.1 and won't be maintaining this repo.
 
 Richard
 
