@@ -1,3 +1,7 @@
+== 1.5.2 (2016-12-21)
+* Fixed #214
+* (@rvangeilswyk)
+
 == 1.5.0 (2013-12-30)
 * Added message filtering.
 * (@overovermind)
